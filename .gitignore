@@ -1,0 +1,11 @@
+﻿################################################################################
+# この .gitignore ファイルは Microsoft(R) Visual Studio によって自動的に作成されました。
+################################################################################
+
+/.vs/ZeikomiRetweetWordCloudConsole/v17
+/ZeikomiRetweetWordCloudConsole/bin/Debug/net6.0
+/ZeikomiRetweetWordCloudConsole/obj
+/ZeikomiRetweetWordCloudConsoleInstaller/Debug
+/ZeikomiRetweetWordCloudConsole/bin/Release/net6.0
+/ZeikomiRetweetWordCloudConsoleInstaller/Release
+/ZeikomiRetweetWordCloudConsole/Properties/launchSettings.json
