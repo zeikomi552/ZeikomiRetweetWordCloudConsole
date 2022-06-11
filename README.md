@@ -56,7 +56,9 @@ ZeikomiRetweetWordCloudConsole.exe "ハッシュタグキーワード" "保存�
 ex.
 
 '''
+
 ZeikomiRetweetWordCloudConsole.exe "#ワードクラウドでよろしく" "C:\ZeikomiRetweetWordCloudConsole\tmp.db" "C:\ZeikomiRetweetWordCloudConsole\font" "C:\ZeikomiRetweetWordCloudConsole\tmp"
+
 '''
 
 ※フォントファイルは.ttfのみ使用することができます。
