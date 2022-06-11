@@ -1,5 +1,11 @@
 # ZeikomiRetweetWordCloudConsole
 
+![GitHub tag (latest SemVer)](https://img.shields.io/github/v/tag/zeikomi552/ZeikomiRetweetWordCloudConsole)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/zeikomi552/ZeikomiRetweetWordCloudConsole)
+![GitHub](https://img.shields.io/github/license/zeikomi552/ZeikomiRetweetWordCloudConsole)
+
+[![Twapi](https://github-readme-stats.vercel.app/api?username=zeikomi552)](https://github.com/zeikomi552/ZeikomiRetweetWordCloudConsole)
+
 ## アプリケーションの目的
 
 本アプリケーションは特定のハッシュタグを持ったツイート内容を探し
