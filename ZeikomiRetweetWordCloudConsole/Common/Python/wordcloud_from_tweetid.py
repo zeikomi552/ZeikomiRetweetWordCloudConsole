@@ -379,9 +379,9 @@ if __name__ == '__main__':
             wordcloud_file_path = out_dir + "\\{}.png".format(base_id)
             output_wordcloud(plane_text, font_path, wordcloud_file_path ,"white",colormap)
 
-
-        print("ret_code={} search_keyword={} file_path={} out_dir={}".format(_ret_code, _search_key, _memo, out_dir + "\\{}.png".format(base_id)))
+        gs = chr(29)
+        print("ret_code={}" + gs + "search_keyword={}" + gs + "file_path={}" + gs + "out_dir={}".format(_ret_code, _search_key, _memo, out_dir + "\\{}.png".format(base_id)))
 
     except Exception as e:
-        print("ret_code={} search_keyword={} message={}".format(_ret_code, _search_key, e.message))
+        print("ret_code={}" + gs + "search_keyword={}" + gs + "message={}".format(_ret_code, _search_key, e.message))
         

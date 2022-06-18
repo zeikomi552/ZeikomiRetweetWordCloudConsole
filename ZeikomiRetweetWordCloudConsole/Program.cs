@@ -75,6 +75,7 @@ public class Exec
     #endregion
 
 
+
     #region WordCloudの作成処理
 
     /// <summary>
@@ -101,7 +102,9 @@ public class Exec
                 string search_key = string.Empty;
                 if (!string.IsNullOrEmpty(msg))
                 {
-                    var msg_list = msg?.Split(" ");
+                    char gs = (char)29;
+
+                    var msg_list = msg?.Split(gs);
 
                     foreach (var wordcloud_msg in msg_list!)
                     {
